@@ -6,7 +6,13 @@
  */
 
 #include "t_gpio.h"
+#include "stdint.h"
+#include "stm32f4xx.h"
+#include <memory>
 
+void GPIO_test::Test()
+{
 
+}
 
 

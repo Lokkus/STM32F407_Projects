@@ -8,9 +8,11 @@
 #ifndef INC_T_GPIO_H_
 #define INC_T_GPIO_H_
 
-class TGPIO_test
+class GPIO_test
 {
-
+public:
+    GPIO_test() = default;
+    void Test();
 };
 
 
