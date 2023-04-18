@@ -12,7 +12,7 @@ class GPIO_test
 {
 public:
     GPIO_test() = default;
-    void Test();
+    void gpio_register_test();
 };
 
 
